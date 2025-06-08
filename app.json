@@ -6,7 +6,7 @@
   "success_url": "/",
 
     "env": {
-        "SESSION_ID": {
+        "Manu-MD&yAEWmIyR#Tx_1iamrUwq9LfDIhE_AoiwUMv7VT5j_AIqNLn3WBSo": {
             "description": "Type the Session-ID you got from pair or scan qr.",
             "required": true,
             "value": "put session id here"
